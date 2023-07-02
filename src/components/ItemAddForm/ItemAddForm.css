@@ -1,0 +1,8 @@
+.item-add-form {
+    display: flex;
+    margin-top: 10px;
+}
+
+.item-add-form .add-item-btn {
+    width: 125px;
+}
